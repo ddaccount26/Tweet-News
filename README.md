@@ -8,9 +8,11 @@ Create a Git repository for version control.
 Set up the Twitter Developer account and obtain API keys.
 
 API Key: mfzQXNOEhr8Ly5p95X3huANmx
+
 API Key Secret: JDWVDJTbYyCoQD7aRnDEthPL8Xh4N8JjIlymXbMEE1IOlzBkqN
 
 Access Token: 1846971149319917569-xZYxNPt9v27nfUBVX0DsWFjC57M8Ui
+
 Access Token Secret: s4EeI68Mi5wNXUcW0Mrhv11a39D2oApu6qQZT2cPoFpmb
 --------------------------------------------------------------
 Frontend Development:
