@@ -14,9 +14,10 @@ API Key Secret: JDWVDJTbYyCoQD7aRnDEthPL8Xh4N8JjIlymXbMEE1IOlzBkqN
 Access Token: 1846971149319917569-xZYxNPt9v27nfUBVX0DsWFjC57M8Ui
 
 Access Token Secret: s4EeI68Mi5wNXUcW0Mrhv11a39D2oApu6qQZT2cPoFpmb
---------------------------------------------------------------
-Frontend Development:
 
+
+Frontend Development:
+---------------------
 Design a clean and intuitive Streamlit interface.
 
 Include:
@@ -30,7 +31,7 @@ Filters based on research areas.
 Admin panel for updating the research areas.
 
 Backend Development:
-
+-------------------- 
 Twitter Data Extraction:
 
 Use the Twitter API (Tweepy) to fetch real-time tweets based on keywords for each research area.
